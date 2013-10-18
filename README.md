@@ -16,3 +16,8 @@ bash-4.2# ./gdf.sh
 /                 [##################################------------]  74% 
 /data             [################################--------------]  70% 
 ```
+
+Contact
+=======
+
+You will always find ways of contacting me at http://www.silviuvulcan.ro/
