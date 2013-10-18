@@ -1,0 +1,10 @@
+INSTALL
+=======
+
+Copy the script
+
+cp gdf.sh /usr/local/bin/gdf.sh
+
+Edit .bash_profile and add:
+
+alias gdf='/usr/local/bin/gdf.sh'
