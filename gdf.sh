@@ -1,4 +1,9 @@
 #!/bin/bash
+# 
+# gdf is a bash script that displays disk usage using text graphics
+#
+# Copyright (C) 2013 Silviu Vulcan
+#
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -12,9 +17,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-# gdf is a bash script that displays disk usage using text graphics
-# 
-# Written by Silviu Vulcan - http://www.silviuvulcan.ro/
 
 
 WDTH=80         # fixing width in case tput is missing
